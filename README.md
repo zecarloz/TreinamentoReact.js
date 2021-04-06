@@ -7,4 +7,4 @@
 ### Visitem minha Home-page no git e curta meus projetos no link abaixo:
 ### https://github.com/zecarloz
 ##### React é uma biblioteca javascript para criar paginas web's de forma ágil e eficiente
-##### Licença padrão M.I.T
+##### Licença padrão M.I.T .
